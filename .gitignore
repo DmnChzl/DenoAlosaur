@@ -1,0 +1,21 @@
+# Deno
+.deno_plugins
+
+# Node
+node_modules
+package-lock.json
+yarn*
+
+# DotEnv
+.env
+
+# Misc
+.idea
+.vscode
+
+# OSX
+.DS_Store
+._*
+
+# Scripts
+*.sh

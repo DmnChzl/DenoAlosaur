@@ -1,0 +1,717 @@
+[
+  {
+    "title": "The Wanderings Of The Avener",
+    "artist": "The Avener",
+    "label": "Capitol",
+    "released": 1421668800,
+    "genres": ["Electro", "Dance"],
+    "tracklist": [
+      {
+        "title": "Panama",
+        "artists": ["The Avener"],
+        "length": 275000
+      },
+      {
+        "title": "Fade Out Lines (The Avener Rework)",
+        "artists": ["The Avener", "Phoebe Killdeer"],
+        "length": 277000
+      },
+      {
+        "title": "Celestial Blues (The Avener Rework)",
+        "artists": ["The Avener", "Andy Bey"],
+        "length": 216000
+      },
+      {
+        "title": "Castle In The Snow",
+        "artists": ["The Avener", "Kadebostany"],
+        "length": 213000
+      },
+      {
+        "title": "To Let Myself Go",
+        "artists": ["The Avener", "Ane Brun"],
+        "length": 254000
+      },
+      {
+        "title": "Lonely Boy",
+        "artists": ["The Avener"],
+        "length": 244000
+      },
+      {
+        "title": "It Serves You Right To Suffer (The Avener Rework)",
+        "artists": ["The Avener", "John Lee Hooker"],
+        "length": 205000
+      },
+      {
+        "title": "Hate Street Dialogue",
+        "artists": ["The Avener", "Rodriguez"],
+        "length": 259000
+      },
+      {
+        "title": "Your Love Rocks",
+        "artists": ["The Avener", "N* GrandJean"],
+        "length": 249000
+      },
+      {
+        "title": "Waitin' Round To Die",
+        "artists": ["The Avener", "The Be Good Tanyas"],
+        "length": 258000
+      },
+      {
+        "title": "We Go Home",
+        "artists": ["The Avener", "Adam Cohen"],
+        "length": 194000
+      },
+      {
+        "title": "La Tourre",
+        "artists": ["The Avener"],
+        "length": 232000
+      },
+      {
+        "title": "Waiting Here",
+        "artists": ["The Avener", "Jake Isaac"],
+        "length": 251000
+      },
+      {
+        "title": "Fade Into You (The Avener Rework)",
+        "artists": ["The Avener", "Mazzy Star"],
+        "length": 185000
+      }
+    ]
+  },
+  {
+    "title": "Black Sands",
+    "artist": "Bonobo",
+    "label": "Ninja Tune",
+    "released": 1269864000,
+    "genres": ["Electro", "Dance"],
+    "tracklist": [
+      {
+        "title": "Prelude",
+        "artists": ["Bonobo"],
+        "length": 78000
+      },
+      {
+        "title": "Kiara",
+        "artists": ["Bonobo"],
+        "length": 230000
+      },
+      {
+        "title": "Kong",
+        "artists": ["Bonobo"],
+        "length": 238000
+      },
+      {
+        "title": "Eyesdown",
+        "artists": ["Bonobo", "Andreya Trianna"],
+        "length": 326000
+      },
+      {
+        "title": "El Toro",
+        "artists": ["Bonobo"],
+        "length": 224000
+      },
+      {
+        "title": "We Could Forever",
+        "artists": ["Bonobo"],
+        "length": 260000
+      },
+      {
+        "title": "1009",
+        "artists": ["Bonobo"],
+        "length": 270000
+      },
+      {
+        "title": "All In Forms",
+        "artists": ["Bonobo"],
+        "length": 292000
+      },
+      {
+        "title": "The Keeper",
+        "artists": ["Bonobo", "Andreya Trianna"],
+        "length": 289000
+      },
+      {
+        "title": "Stay The Same",
+        "artists": ["Bonobo", "Andreya Trianna"],
+        "length": 285000
+      },
+      {
+        "title": "Animals",
+        "artists": ["Bonobo"],
+        "length": 405000
+      },
+      {
+        "title": "Black Sands",
+        "artists": ["Bonobo"],
+        "length": 409000
+      }
+    ]
+  },
+  {
+    "title": "A Head Full Of Dreams",
+    "artist": "Coldplay",
+    "label": "Parlophone",
+    "released": 1449230400,
+    "genres": ["Pop", "Rock", "Indie"],
+    "tracklist": [
+      {
+        "title": "A Head Full Of Dreams",
+        "artists": ["Coldplay"],
+        "length": 224000
+      },
+      {
+        "title": "Birds",
+        "artists": ["Coldplay"],
+        "length": 229000
+      },
+      {
+        "title": "Hymn For The Weekend",
+        "artists": ["Coldplay"],
+        "length": 259000
+      },
+      {
+        "title": "Everglow",
+        "artists": ["Coldplay"],
+        "length": 283000
+      },
+      {
+        "title": "Adventure Of A Lifetime",
+        "artists": ["Coldplay"],
+        "length": 264000
+      },
+      {
+        "title": "Fun",
+        "artists": ["Coldplay", "Tove Lo"],
+        "length": 268000
+      },
+      {
+        "title": "Kaleidoscope",
+        "artists": ["Coldplay"],
+        "length": 112000
+      },
+      {
+        "title": "Army Of One",
+        "artists": ["Coldplay"],
+        "length": 377000
+      },
+      {
+        "title": "Amazing Day",
+        "artists": ["Coldplay"],
+        "length": 271000
+      },
+      {
+        "title": "Colour Spectrum",
+        "artists": ["Coldplay"],
+        "length": 60000
+      },
+      {
+        "title": "Up&Up",
+        "artists": ["Coldplay"],
+        "length": 405000
+      }
+    ]
+  },
+  {
+    "title": "American Beauty / American Psycho",
+    "artist": "Fall Out Boy",
+    "label": "Island",
+    "released": 1421755200,
+    "genres": ["Rock", "Indie", "Alternative"],
+    "tracklist": [
+      {
+        "title": "Irresistible",
+        "artists": ["Fall Out Boy"],
+        "length": 207000
+      },
+      {
+        "title": "American Beauty / American Psycho",
+        "artists": ["Fall Out Boy"],
+        "length": 196000
+      },
+      {
+        "title": "Centuries",
+        "artists": ["Fall Out Boy"],
+        "length": 228000
+      },
+      {
+        "title": "The Kids Aren't Alright",
+        "artists": ["Fall Out Boy"],
+        "length": 261000
+      },
+      {
+        "title": "Uma Thurman",
+        "artists": ["Fall Out Boy"],
+        "length": 212000
+      },
+      {
+        "title": "Jet Pack Blues",
+        "artists": ["Fall Out Boy"],
+        "length": 179000
+      },
+      {
+        "title": "Novocaine",
+        "artists": ["Fall Out Boy"],
+        "length": 227000
+      },
+      {
+        "title": "Fourth Of July",
+        "artists": ["Fall Out Boy"],
+        "length": 224000
+      },
+      {
+        "title": "Favorite Record",
+        "artists": ["Fall Out Boy"],
+        "length": 203000
+      },
+      {
+        "title": "Immortals",
+        "artists": ["Fall Out Boy"],
+        "length": 189000
+      },
+      {
+        "title": "Twin Skeleton's (Hotel In NYC)",
+        "artists": ["Fall Out Boy"],
+        "length": 22000
+      }
+    ]
+  },
+  {
+    "title": "Evolve",
+    "artist": "Imagine Dragons",
+    "label": "Interscope",
+    "released": 1498219200,
+    "genres": ["Rock", "Indie", "Alternative"],
+    "tracklist": [
+      {
+        "title": "I Don't Know Why",
+        "artists": ["Imagine Dragons"],
+        "length": 190000
+      },
+      {
+        "title": "Whatever It Takes",
+        "artists": ["Imagine Dragons"],
+        "length": 201000
+      },
+      {
+        "title": "Believer",
+        "artists": ["Imagine Dragons"],
+        "length": 204000
+      },
+      {
+        "title": "Walking The Wire",
+        "artists": ["Imagine Dragons"],
+        "length": 233000
+      },
+      {
+        "title": "Rise Up",
+        "artists": ["Imagine Dragons"],
+        "length": 232000
+      },
+      {
+        "title": "I'll Make It Up To You",
+        "artists": ["Imagine Dragons"],
+        "length": 263000
+      },
+      {
+        "title": "Yesterday",
+        "artists": ["Imagine Dragons"],
+        "length": 205000
+      },
+      {
+        "title": "Mouth Of The River",
+        "artists": ["Imagine Dragons"],
+        "length": 222000
+      },
+      {
+        "title": "Thunder",
+        "artists": ["Imagine Dragons"],
+        "length": 187000
+      },
+      {
+        "title": "Start Over",
+        "artists": ["Imagine Dragons"],
+        "length": 186000
+      },
+      {
+        "title": "Dancing In The Dark",
+        "artists": ["Imagine Dragons"],
+        "length": 234000
+      }
+    ]
+  },
+  {
+    "title": "The Resistance",
+    "artist": "Muse",
+    "label": "Warner",
+    "released": 1252584000,
+    "genres": ["Rock", "Indie", "Alternative"],
+    "tracklist": [
+      {
+        "title": "Uprising",
+        "artists": ["Muse"],
+        "length": 305000
+      },
+      {
+        "title": "Resistance",
+        "artists": ["Muse"],
+        "length": 347000
+      },
+      {
+        "title": "Undisclosed Desires",
+        "artists": ["Muse"],
+        "length": 235000
+      },
+      {
+        "title": "United States Of Eurasia (+ Collateral Damage)",
+        "artists": ["Muse"],
+        "length": 348000
+      },
+      {
+        "title": "Guiding Light",
+        "artists": ["Muse"],
+        "length": 253000
+      },
+      {
+        "title": "Unnatural Selection",
+        "artists": ["Muse"],
+        "length": 415000
+      },
+      {
+        "title": "MK Ultra",
+        "artists": ["Muse"],
+        "length": 246000
+      },
+      {
+        "title": "I Belong To You (+ Mon Coeur S'Ouvre A Ta Voix)",
+        "artists": ["Muse"],
+        "length": 339000
+      },
+      {
+        "title": "Exogenesis: Symphony Pt. 1 (Overture)",
+        "artists": ["Muse"],
+        "length": 258000
+      },
+      {
+        "title": "Exogenesis: Symphony Pt. 2 (Cross-Pollination)",
+        "artists": ["Muse"],
+        "length": 236000
+      },
+      {
+        "title": "Exogenesis: Symphony Pt. 3 (Redemption)",
+        "artists": ["Muse"],
+        "length": 277000
+      }
+    ]
+  },
+  {
+    "title": "Wiped Out",
+    "artist": "The Neighbourhood",
+    "label": "Columbia",
+    "released": 1446206400,
+    "genres": ["Rock", "Alternative"],
+    "tracklist": [
+      {
+        "title": "A Moment Of Silence",
+        "artists": ["The Neighbourhood"],
+        "length": 30000
+      },
+      {
+        "title": "Prey",
+        "artists": ["The Neighbourhood"],
+        "length": 283000
+      },
+      {
+        "title": "Cry Baby",
+        "artists": ["The Neighbourhood"],
+        "length": 235000
+      },
+      {
+        "title": "Wiped Out",
+        "artists": ["The Neighbourhood"],
+        "length": 373000
+      },
+      {
+        "title": "The Beach",
+        "artists": ["The Neighbourhood"],
+        "length": 255000
+      },
+      {
+        "title": "Daddy Issues",
+        "artists": ["The Neighbourhood"],
+        "length": 260000
+      },
+      {
+        "title": "Baby Came Home 2 / Valentines",
+        "artists": ["The Neighbourhood"],
+        "length": 390000
+      },
+      {
+        "title": "Greetings From Califournia",
+        "artists": ["The Neighbourhood"],
+        "length": 244000
+      },
+      {
+        "title": "Ferrari",
+        "artists": ["The Neighbourhood"],
+        "length": 184000
+      },
+      {
+        "title": "Single",
+        "artists": ["The Neighbourhood"],
+        "length": 262000
+      },
+      {
+        "title": "R.I.P 2 My Youth",
+        "artists": ["The Neighbourhood"],
+        "length": 205000
+      }
+    ]
+  },
+  {
+    "title": "A Moment Apart",
+    "artist": "Odesza",
+    "label": "Counter",
+    "released": 1504872000,
+    "genres": ["Electro", "Dance"],
+    "tracklist": [
+      {
+        "title": "Intro",
+        "artists": ["Odesza"],
+        "length": 64000
+      },
+      {
+        "title": "A Moment Apart",
+        "artists": ["Odesza"],
+        "length": 234000
+      },
+      {
+        "title": "Higher Ground",
+        "artists": ["Odesza", "Naomi Wild"],
+        "length": 215000
+      },
+      {
+        "title": "Boy",
+        "artists": ["Odesza"],
+        "length": 184000
+      },
+      {
+        "title": "Line Of Sight",
+        "artists": ["Odesza", "Wynne", "Mansionair"],
+        "length": 237000
+      },
+      {
+        "title": "Late Night",
+        "artists": ["Odesza"],
+        "length": 228000
+      },
+      {
+        "title": "Across The Room",
+        "artists": ["Odesza"],
+        "length": 284000
+      },
+      {
+        "title": "Meridian",
+        "artists": ["Odesza"],
+        "length": 236000
+      },
+      {
+        "title": "Everything At Your Feet",
+        "artists": ["Odesza", "The Chamanas"],
+        "length": 208000
+      },
+      {
+        "title": "Just A Memory",
+        "artists": ["Odesza", "Regina Spektor"],
+        "length": 237000
+      },
+      {
+        "title": "Divide",
+        "artists": ["Odesza", "Kelsey Bulkin"],
+        "length": 242000
+      },
+      {
+        "title": "Thin Floors & Tall Ceilings",
+        "artists": ["Odesza"],
+        "length": 178000
+      },
+      {
+        "title": "La Ciudad",
+        "artists": ["Odesza"],
+        "length": 271000
+      },
+      {
+        "title": "Falls",
+        "artists": ["Odesza", "Sasha Sloan"],
+        "length": 233000
+      },
+      {
+        "title": "Show Me",
+        "artists": ["Odesza"],
+        "length": 219000
+      },
+      {
+        "title": "Corners Of The Earth",
+        "artists": ["Odesza", "Ry X"],
+        "length": 305000
+      }
+    ]
+  },
+  {
+    "title": "Blurryface",
+    "artist": "Twenty One Pilots",
+    "label": "Fueled By Ramen",
+    "released": 1431691200,
+    "genres": ["Hip-Hop", "Rock", "Indie", "Alternative"],
+    "tracklist": [
+      {
+        "title": "HeavyDirtySoul",
+        "artists": ["Twenty One Pilots"],
+        "length": 235000
+      },
+      {
+        "title": "Stressed Out",
+        "artists": ["Twenty One Pilots"],
+        "length": 202000
+      },
+      {
+        "title": "Ride",
+        "artists": ["Twenty One Pilots"],
+        "length": 215000
+      },
+      {
+        "title": "Fairly Local",
+        "artists": ["Twenty One Pilots"],
+        "length": 207000
+      },
+      {
+        "title": "Tear In My Heart",
+        "artists": ["Twenty One Pilots"],
+        "length": 188000
+      },
+      {
+        "title": "Lane Boy",
+        "artists": ["Twenty One Pilots"],
+        "length": 253000
+      },
+      {
+        "title": "The Judge",
+        "artists": ["Twenty One Pilots"],
+        "length": 298000
+      },
+      {
+        "title": "Doubt",
+        "artists": ["Twenty One Pilots"],
+        "length": 191000
+      },
+      {
+        "title": "Polarize",
+        "artists": ["Twenty One Pilots"],
+        "length": 227000
+      },
+      {
+        "title": "We Don't Believe What's On TV",
+        "artists": ["Twenty One Pilots"],
+        "length": 177000
+      },
+      {
+        "title": "Message Man",
+        "artists": ["Twenty One Pilots"],
+        "length": 240000
+      },
+      {
+        "title": "Hometown",
+        "artists": ["Twenty One Pilots"],
+        "length": 235000
+      },
+      {
+        "title": "Not Today",
+        "artists": ["Twenty One Pilots"],
+        "length": 238000
+      },
+      {
+        "title": "Goner",
+        "artists": ["Twenty One Pilots"],
+        "length": 237000
+      }
+    ]
+  },
+  {
+    "title": "The Golden Age",
+    "artist": "Woodkid",
+    "label": "Green United Music",
+    "released": 1357041600,
+    "genres": ["Rock", "Alternative"],
+    "tracklist": [
+      {
+        "title": "The Golden Age",
+        "artists": ["Woodkid"],
+        "length": 225000
+      },
+      {
+        "title": "Run Boy Run",
+        "artists": ["Woodkid"],
+        "length": 213000
+      },
+      {
+        "title": "The Greatest Escape",
+        "artists": ["Woodkid"],
+        "length": 195000
+      },
+      {
+        "title": "Boat Song",
+        "artists": ["Woodkid"],
+        "length": 270000
+      },
+      {
+        "title": "I Love You",
+        "artists": ["Woodkid"],
+        "length": 230000
+      },
+      {
+        "title": "The Shore",
+        "artists": ["Woodkid"],
+        "length": 254000
+      },
+      {
+        "title": "Ghost Light",
+        "artists": ["Woodkid"],
+        "length": 220000
+      },
+      {
+        "title": "Shadows",
+        "artists": ["Woodkid"],
+        "length": 125000
+      },
+      {
+        "title": "Stabat Mater",
+        "artists": ["Woodkid"],
+        "length": 169000
+      },
+      {
+        "title": "Conquest Of Spaces",
+        "artists": ["Woodkid"],
+        "length": 270000
+      },
+      {
+        "title": "Falling",
+        "artists": ["Woodkid"],
+        "length": 43000
+      },
+      {
+        "title": "Where I Live",
+        "artists": ["Woodkid"],
+        "length": 265000
+      },
+      {
+        "title": "Iron",
+        "artists": ["Woodkid"],
+        "length": 202000
+      },
+      {
+        "title": "The Other Side",
+        "artists": ["Woodkid"],
+        "length": 222000
+      }
+    ]
+  }
+]
