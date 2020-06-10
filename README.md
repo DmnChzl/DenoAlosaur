@@ -1,10 +1,22 @@
 # Deno x Alosaur 🦕🦖
 
-**[Deno](https://deno.land)** (Land) REST API Made With ([Alosaur](https://github.com/alosaur/alosaur))
+I made **REST** APIs based on my own discography (and my musical tastes), with this technologies:
+
+- **Deno**: A Secure Runtime For JavaScript And TypeScript
+  - [http://deno.land/](http://deno.land/)
+
+- **Alosaur**: Deno Web Framework With Many Decorators
+  - [https://github.com/alosaur/](https://github.com/alosaur/alosaur/)
 
 ## Process
 
-Run
+Clone the project:
+
+```
+git clone https://github.com/MrDoomy/DenoAlosaur.git
+```
+
+Run the project:
 
 ```
 deno run --allow-env --allow-read --allow-write --allow-net --allow-plugin --config tsconfig.lib.json --unstable app.ts
@@ -12,7 +24,14 @@ deno run --allow-env --allow-read --allow-write --allow-net --allow-plugin --con
 
 ### Note(s)
 
-`.env`
+_This application depends on a NoSQL database. Install MongoDB and run the following commands in a new terminal before launching the project:_
+
+```
+mkdir DataBase
+mongo --dbpath DataBase
+```
+
+_This application supports the `.env` file. Please, create it and override the following properties before launching the project:_
 
 ```
 DENO_ENV=prod
@@ -22,13 +41,6 @@ DB_NAME=deno_land
 DB_HOST=localhost
 DB_PORT=27017
 SECRET=HelloWorld
-```
-
-Mongo**DB**
-
-```
-mkdir DataBase
-mongo --dbpath DataBase
 ```
 
 ## License
