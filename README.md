@@ -13,7 +13,7 @@ I made **REST** APIs based on my own discography (and my musical tastes), with t
 Clone the project:
 
 ```
-git clone https://github.com/MrDoomy/DenoAlosaur.git
+git clone https://github.com/DmnChzl/DenoAlosaur.git
 ```
 
 Run the project:
