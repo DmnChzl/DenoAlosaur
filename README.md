@@ -1,6 +1,6 @@
 # Deno x Alosaur 🦕🦖
 
-I made **REST** APIs based on my own discography (and my musical tastes), with this technologies:
+I made **REST** APIs based on my own discography (and my musical tastes), with these technologies:
 
 - **Deno**: A Secure Runtime For JavaScript And TypeScript
   - [http://deno.land/](http://deno.land/)
